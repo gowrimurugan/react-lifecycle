@@ -1,0 +1,25 @@
+.form-container{
+    /* display: flex; */
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+input{
+    text-align: center;
+    padding:10px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+.submit-button{
+    align-items: center;
+    display: block;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    margin-left: 515px;
+}
+.submit-button:hover{
+    background-color: orangered;
+    color: white;
+}
